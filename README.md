@@ -1,4 +1,4 @@
 # Turbo Telegram
 test project for AIP Python course
 
-text for new branch 'feature-01'
+text for new branch 'main'
